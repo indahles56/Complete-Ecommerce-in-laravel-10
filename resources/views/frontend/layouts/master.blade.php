@@ -12,6 +12,7 @@
     </style>
 </head>
 <body class="js">
+	{{-- TOMBOL WA --}}
 	<div class="fab">
 		<a href="https://wa.me/6285721119198" target="_blank">
 			<svg height="48px" width="48px" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
