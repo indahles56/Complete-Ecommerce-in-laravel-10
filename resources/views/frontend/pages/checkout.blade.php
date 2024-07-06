@@ -175,7 +175,7 @@
                                                 <option value="HU">Hungary</option>
                                                 <option value="IS">Iceland</option>
                                                 <option value="IN">India</option>
-                                                <option value="ID">Indonesia</option>
+                                                <option value="ID" selected="selected">Indonesia</option>
                                                 <option value="IR">Iran</option>
                                                 <option value="IQ">Iraq</option>
                                                 <option value="IE">Ireland</option>
@@ -225,7 +225,7 @@
                                                 <option value="MM">Myanmar [Burma]</option>
                                                 <option value="NA">Namibia</option>
                                                 <option value="NR">Nauru</option>
-                                                <option value="NP" selected="selected">Nepal</option>
+                                                <option value="NP">Nepal</option>
                                                 <option value="NL">Netherlands</option>
                                                 <option value="AN">Netherlands Antilles</option>
                                                 <option value="NC">New Caledonia</option>
